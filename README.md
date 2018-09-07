@@ -1,1 +1,1 @@
-# 2-Folder-Duplicate-Files-Finder
+# Two-Folders-Duplicate-Files-Finder
